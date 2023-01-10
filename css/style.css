@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  text-align: center;
+  background-color: #1e2323;
+  color: white; }
+
+p {
+  font-size: 25px; }
+
+input {
+  width: 250px;
+  height: 50px;
+  font-size: 18px; }
+
+.submit_button {
+  width: 100px;
+  height: 30px; }
+
+.uah_box {
+  margin-top: 30px; }
+
+/*# sourceMappingURL=style.css.map */
